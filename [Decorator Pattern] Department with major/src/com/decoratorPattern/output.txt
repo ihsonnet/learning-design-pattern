@@ -1,0 +1,14 @@
+Enrolled Cyber Security Major.
+Department: Software Engineering with Cyber Security Major
+Total Cost: 740000.0 TK
+
+
+Enrolled Robotics Major.
+Department: Software Engineering with Robotics Major
+Total Cost: 762000.0 TK
+
+
+Enrolled Cyber Security Major.
+Enrolled Robotics Major.
+Department: Software Engineering with Cyber Security Major with Robotics Major
+Total Cost: 827000.0 TK
